@@ -12,4 +12,4 @@ Repositório criado para disponibilização de materiais durante a disciplina de
 ### Disciplina
 * **Professor**: Daniel Di Domenico
 * **Carga horária**: 120 horas aula
-* **Ano**: 2022
+* **Ano**: 2023
